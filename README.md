@@ -1,2 +1,2 @@
 # Calculadora-IMC
-Projeto prático em python bsico 
+Projeto prático em python básico 
